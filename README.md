@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | DevOps Engineer | Building Scalable and Reliable Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Build.+Ship.+Repeat.;Cloud-Native+%7C+CI%2FCD+%7C+Kubernetes+%7C+DevOps;From+Git+Push+to+Production+-+Automate+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Build.+Ship.+Repeat.;Cloud-Native+%7C+CI%2FCD+%7C+Kubernetes+%7C+DevOps;From+Git+Push+to+Production+-+Automate+Every" alt="Typing SVG" />
 </p>
 
 ---
