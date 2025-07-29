@@ -31,8 +31,8 @@
 ### 🗃️ Databases & Scripting
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 </p>
 
@@ -48,7 +48,9 @@
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" />
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" title="SonarQube" />
+  <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" width="40" title="Trivy" />
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" title="OWASP" />
 </p>
 
 ### ☁️ Cloud & Messaging
@@ -70,15 +72,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkumbhar08&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumbhar08&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumbhar08&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilkumbhar08&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -86,6 +96,6 @@
 ## 🌐 Connect With Me!
 
 <p>
-  <a href="https://www.linkedin.com/in/sahil-kumbhar-473669254/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" /></a>
-  <a href="mailto:sahilkumbhar004@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sahil-kumbhar-473669254/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" /></a>
+  <a href="mailto:sahilkumbhar004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" width="40" /></a>
 </p>
