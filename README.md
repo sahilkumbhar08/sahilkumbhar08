@@ -44,13 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" title="SonarQube" />
-  <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" width="40" title="Trivy" />
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" title="OWASP" />
+  <img src="https://www.svgrepo.com/show/353935/terraform.svg" width="40" title="Terraform" />
+  <img src="https://www.svgrepo.com/show/354202/ansible.svg" width="40" title="Ansible" />
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/logo.png" width="40" title="ArgoCD" />
+  <img src="https://www.svgrepo.com/show/354262/prometheus.svg" width="40" title="Prometheus" />
+  <img src="https://raw.githubusercontent.com/SonarSource/sonarqube/master/sonar-ws/src/main/resources/static/favicon.ico" width="40" title="SonarQube" />
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" width="40" title="Trivy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Owasp-logo.png" width="40" title="OWASP" />
 </p>
 
 ### ☁️ Cloud & Messaging
@@ -69,18 +69,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkumbhar08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkumbhar08&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumbhar08&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilkumbhar08&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumbhar08&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumbhar08&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilkumbhar08&theme=radical&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilkumbhar08&theme=radical&column=7" />
 </p>
 
 ---
@@ -96,6 +96,10 @@
 ## 🌐 Connect With Me!
 
 <p>
-  <a href="https://www.linkedin.com/in/sahil-kumbhar-473669254/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" /></a>
-  <a href="mailto:sahilkumbhar004@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sahil-kumbhar-473669254/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" />
+  </a>
+  <a href="mailto:sahilkumbhar004@gmail.com">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" width="40" />
+  </a>
 </p>
