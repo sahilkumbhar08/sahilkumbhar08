@@ -83,7 +83,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me!
 
 <p>
   <a href="https://www.linkedin.com/in/sahil-kumbhar-473669254/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" /></a>
