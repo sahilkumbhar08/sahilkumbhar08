@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm **Sahil Kumbhar**
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=60&lines=Software+Developer+%7C+DevOps+Engineer;Building+Scalable+%26+Reliable+Systems;Cloud-Native+Architecture+Specialist;CI%2FCD+Pipeline+Automation+Expert" alt="Professional Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Deploy.+Repeat.;Cloud-Native+%7C+CI%2FCD+%7C+Kubernetes;DevOps+Pipeline+Automation;Microservices+%26+Scalable+Systems" alt="Typing SVG" />
 
   <br>
 
@@ -20,16 +20,16 @@
 <td width="50%">
 
 ### 💼 Current Focus
-- 🚀 **Cloud-Native Microservices Architecture**
-- 🔄 **CI/CD Pipeline Automation & Optimization**
-- 📊 **Infrastructure as Code (IaC) Implementation**
-- 🛡️ **DevSecOps & Security Integration**
+- 🚀 **Learning Cloud-Native Development**
+- 🔄 **Exploring CI/CD Pipeline Concepts**
+- 📊 **Understanding Infrastructure as Code**
+- 🛡️ **Getting Started with DevOps Practices**
 
 ### 🎓 Learning & Growth
-- 🏗️ **Advanced Kubernetes & Service Mesh**
-- 📈 **Observability Stack (Prometheus, Grafana)**
-- 🔧 **GitOps with ArgoCD & Flux**
-- ☁️ **Multi-Cloud Deployment Strategies**
+- 🏗️ **Docker & Containerization**
+- 📈 **Basic Kubernetes & Orchestration**
+- 🔧 **Git Workflows & Version Control**
+- ☁️ **AWS Fundamentals & Cloud Services**
 
 </td>
 <td width="50%">
@@ -39,10 +39,10 @@
 </div>
 
 ### 📊 **Quick Stats**
-- 💼 **3+ Years** in Software Development
-- ☁️ **2+ Years** in DevOps & Cloud
-- 🏗️ **50+ Projects** Deployed to Production
-- 🔄 **100+ Pipelines** Automated
+- 🌱 **Learning** Software Development & DevOps
+- 💻 **Focusing on** Backend Development & Cloud
+- 🚀 **Building** Personal Projects & Learning
+- 📚 **Currently Studying** Microservices & Automation
 
 </td>
 </tr>
@@ -50,37 +50,94 @@
 
 ---
 
-## 🛠️ **Technology Ecosystem**
+## 🛠️ **My Tech Journey**
 
 <div align="center">
 
-### **Programming & Scripting**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,bash&theme=dark" />
-</p>
+### **Languages I Code In**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="48" height="48" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
 
-### **DevOps & Cloud Infrastructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,ansible&theme=dark" />
-</p>
+### **Tools I'm Learning**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br>GitHub
+</td>
+</tr>
+</table>
 
-### **Development Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,linux&theme=dark" />
-</p>
+### **Databases & Systems**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+</tr>
+</table>
 
-### **Databases & Messaging**
+### **Currently Exploring**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,kafka&theme=dark" />
-</p>
-
-### **Monitoring & Security**
-<p>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
 </p>
 
 </div>
@@ -121,7 +178,7 @@
 
 ---
 
-## 💼 **Featured Projects**
+## 💼 **Learning Projects**
 
 <div align="center">
 
@@ -129,46 +186,52 @@
 <tr>
 <td width="50%">
 
-### 🚀 **Microservices Platform**
-[![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=sahilkumbhar08&repo=microservices-demo&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true)](https://github.com/sahilkumbhar08/microservices-demo)
+### 🌱 **Personal Learning Repository**
+<a href="https://github.com/sahilkumbhar08">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkumbhar08&repo=learning-projects&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true&show_owner=true" />
+</a>
 
-**Tech Stack:** Spring Boot • Docker • Kubernetes • Kafka
-**Features:** Service Discovery • Circuit Breaker • API Gateway
+**Learning:** Spring Boot • Docker • Basic DevOps
+**Goal:** Understanding Backend Development
 
 </td>
 <td width="50%">
 
-### 🔄 **DevOps Pipeline**
-[![DevOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=sahilkumbhar08&repo=devops-pipeline&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true)](https://github.com/sahilkumbhar08/devops-pipeline)
+### 🚀 **Practice DevOps**
+<a href="https://github.com/sahilkumbhar08">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkumbhar08&repo=devops-practice&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true&show_owner=true" />
+</a>
 
-**Tech Stack:** Jenkins • Terraform • AWS • ArgoCD
-**Features:** GitOps • Infrastructure as Code • Security Scanning
+**Exploring:** CI/CD • Docker • AWS Basics
+**Goal:** Learning Cloud & Automation
 
 </td>
 </tr>
 </table>
 
+<p><i>📝 Note: These are learning repositories where I practice and experiment with new technologies</i></p>
+
 </div>
 
 ---
 
-## 📈 **Weekly Development Activity**
+## 📈 **My Learning Journey**
 
 <div align="center">
 
 ```text
-DevOps Engineering    ████████████████████░   85%
-Backend Development   ██████████████░░░░░░░   65%
-Cloud Architecture    ████████████░░░░░░░░░   60%
-System Administration ██████████░░░░░░░░░░░   50%
-Frontend Development  ██████░░░░░░░░░░░░░░░   30%
+Backend Development   ██████████████░░░░░░░   70%
+DevOps Fundamentals   ██████████░░░░░░░░░░░   50%
+Cloud Basics (AWS)    ████████░░░░░░░░░░░░░   40%
+Docker & Containers   ████████░░░░░░░░░░░░░   40%
+Database Management   ██████████████░░░░░░░   70%
 ```
 
 </div>
 
 ---
 
-## 🎯 **Professional Expertise**
+## 🎯 **What I'm Learning**
 
 <div align="center">
 
@@ -176,32 +239,32 @@ Frontend Development  ██████░░░░░░░░░░░░░�
 <tr>
 <td width="33%" align="center">
 
-### ☁️ **Cloud & Infrastructure**
-- AWS Services & Architecture
-- Kubernetes Orchestration
-- Infrastructure as Code
-- Cost Optimization
-- Multi-Cloud Strategies
+### 💻 **Backend Development**
+- Java & Spring Boot
+- RESTful API Design
+- Database Integration
+- Microservices Basics
+- Testing Fundamentals
 
 </td>
 <td width="33%" align="center">
 
-### 🔄 **DevOps & Automation**
-- CI/CD Pipeline Design
-- GitOps Implementation
-- Configuration Management
-- Monitoring & Alerting
-- Security Integration
+### 🔧 **DevOps Essentials**
+- Docker Containerization
+- Basic CI/CD Concepts
+- Git Workflows
+- Linux Command Line
+- Infrastructure Basics
 
 </td>
 <td width="33%" align="center">
 
-### 🏗️ **Software Development**
-- Microservices Architecture
-- Spring Boot Applications
-- Database Design
-- API Development
-- Performance Optimization
+### ☁️ **Cloud Fundamentals**
+- AWS Core Services
+- Cloud Deployment
+- Basic Kubernetes
+- Container Orchestration
+- Monitoring Concepts
 
 </td>
 </tr>
@@ -235,7 +298,7 @@ Frontend Development  ██████░░░░░░░░░░░░░�
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
   
-  ### 💭 *"Transforming ideas into scalable solutions through automation and innovation"*
+  ### 💭 *"Learning to transform ideas into scalable solutions through code and automation"*
   
   <img src="https://komarev.com/ghpvc/?username=sahilkumbhar08&color=58A6FF&style=for-the-badge&label=Profile+Visitors" />
   
